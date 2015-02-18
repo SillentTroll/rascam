@@ -14,7 +14,7 @@ Of course I had to do it in my own, twisted, way and here are the reasons:
 The project is divided into 2 parts:
 
  - **[Client](https://github.com/SillentTroll/rascam_client)** part has all the code and installation scripts for Raspberry Pi.
- - **[Server](https://github.com/SillentTroll/rascam_server)** contains everything to setup and runt the server code on your dedicated machine.
+ - **[Server](https://github.com/SillentTroll/rascam_server)** contains everything to setup and run the server code on your dedicated machine.
 
 See each repo **README** file for installation and configuration steps.
 
