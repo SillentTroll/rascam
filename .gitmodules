@@ -1,0 +1,6 @@
+[submodule "rascam_server"]
+	path = rascam_server
+	url = https://github.com/SillentTroll/rascam_server.git
+[submodule "rascam_client"]
+	path = rascam_client
+	url = https://github.com/SillentTroll/rascam_client.git
