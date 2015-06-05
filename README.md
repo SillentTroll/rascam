@@ -1,5 +1,5 @@
 # RasCam
-Transforms your Raspberry Pi into a security camera with management done from a remote server
+Turns a Raspberry Pi into a motion detecting security camera. All the management is performed on a self-hosted server. 
 
 ##Why?
 Why not? I was looking forward to do something with a Raspberry Pi and thought that a security camera would be a nice pet project and a great opportunity to learn something new.
